@@ -1,6 +1,8 @@
 {
-  "Tag": {
-    "id": "string",
-    "name": "string",
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
